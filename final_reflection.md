@@ -1,0 +1,17 @@
+# Final Reflection - James Knott, COMP 271 
+
+As I said in the beginning of the semester, I didn't think that I was a strong programmer. Whether it's a language gap or through a lack of experience, I didn't think that I would really be able to improve my fluency and technique. However, through out this semester, I have had the experience to take my programming skills to a much higher level than they were before. I've become familiar with different programming techniques and workflows, and (of course) the difference data structures that we've seen through out the class. There are just a few things that I want to point out in this reflection about my experiences in the course.
+
+## Focus, Engagement, and Code Quality
+
+As I think of myself as someone who is still relatively new to the field, I try to engage and attempt to understand concepts as much as possible - especially as these concepts do not come naturally to me. Consequentially, I feel that I've engaged pretty well in class, outside of class, and with the materials. As is the case, I think that this has also applied to my code, where I try to make my ideas pretty clear (especially after the first assignment) through use of commenting and JavaDoc, as well as keeping a structure that (I thought at least) was easy to read in line with the programmers' pact. And, of course, when I had trouble that I couldn't seem to solve myself, I tried to take initiative and ask questions about different concepts and techniques.
+
+## Attendance and Timeliness
+
+I will say that this has probably been my weakest area in the course. In the past, I've had quite a few issues with this, as I struggle with time management. So, I tried harder in this class to stay on top of things be as punctual as possible both in coming to class and with my assignments. However, life got in the way a little bit (death in the family, moving to a new home) and I wasn't able to divide my time effectively between everything. So, despite my efforts, I have missed class twice due to oversleeping and have had a few close calls with some of my assignments, though I will say it wasn't for lack of care.
+
+## Growth
+
+As I have been saying - before I got to Loyola, I don't think that I've been the best at programming. I didn't get many of the concepts put in front of me, I struggled with the syntax of different languages (especially learning one after the other), and I essentially had no confidence that I could improve in my skills fast enough to keep up with everyone else. However, throughout 170 and especially 271, I feel that I have had the biggest jump both in my confidence and in my skills as a programmer. This tangibly shows up not only in the quality of my work, but in the way I'm able to program. I feel that my logic is more consistent, structures and techniques as well as their use cases are more clear, and most importantly - I see that I have the proper foundation to handle much of what is put in front of me (data structures, techniques, etc).
+
+To wrap up, though I have hit some roadblocks in assignments and timeliness, I feel that I have made a consistent effort and have put in the time to understand the concepts in 271, and I feel that it shows! Because this is the case, as shown above, I would like to ask that my final grade in the course to be an A. Of course, I'm open to discussion if this is not an agreed upon sentiment. I appreciate for your time and consideration, and hope you have a good fall semester!
